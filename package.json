@@ -1,0 +1,12 @@
+{
+  "name": "typinggame",
+  "version": "1.0.0",
+  "description": "Typing Game Project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"No tests yet\""
+  },
+  "keywords": [],
+  "author": " Ayush Sahu",
+  "license": "ISC"
+}
